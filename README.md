@@ -11,8 +11,6 @@ console, com dados em memoria e um menu para alternar o usuario ativo.
 - Nome do integrante Luiz Henrique Cardoso da Hora dos Santos 
 - Nome do integrante João Victor Okubo Pereira 
 
-Turma: [informar a turma]
-
 ## Requisitos
 
 - Java 8 ou superior (testado com JDK 26).
