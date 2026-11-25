@@ -7,9 +7,9 @@ console, com dados em memoria e um menu para alternar o usuario ativo.
 
 ## Integrantes e turma
 
-- Nome do integrante Isadora Ribeiro Eugênio
-- Nome do integrante Luiz Henrique Cardoso da Hora dos Santos 
-- Nome do integrante João Victor Okubo Pereira 
+- Nome do integrante 1: Isadora Ribeiro Eugênio
+- Nome do integrante 2: Luiz Henrique Cardoso da Hora dos Santos 
+- Nome do integrante 3: João Victor Okubo Pereira 
 
 ## Requisitos
 
