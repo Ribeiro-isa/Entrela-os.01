@@ -8,8 +8,8 @@ console, com dados em memoria e um menu para alternar o usuario ativo.
 ## Integrantes e turma
 
 - Nome do integrante Isadora Ribeiro Eugênio
-- Nome do integrante 2 
-- Nome do integrante 3 (se houver)
+- Nome do integrante Luiz Henrique Cardoso da Hora dos Santos 
+- Nome do integrante João Victor Okubo Pereira 
 
 Turma: [informar a turma]
 
